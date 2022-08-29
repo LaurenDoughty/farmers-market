@@ -1,3 +1,28 @@
+# Abington Farmers' Market
+This project showcases the Abington Farmers' Market of Northeastern Pennsylvania near Scranton, PA.
+
+**Link to project:** https://abington-farmers-market.netlify.app/index.html
+
+![artistically stacked slices of eggplant]("images/tijana-drndarski-pic.jpg")
+
+## How It's Made:
+
+**Tech used:** HTML, CSS, JavaScript
+
+I made this site for the local farmers' market to advertise to the surrounding area.
+
+## Lessons Learned:
+
+I learned about responsive design from this project.
+
+## Examples:
+Take a look at these examples in my portfolio:
+
+**Friends of the Abington Community Library:** https://aclfriends.netlify.app/
+
+**Abington Farmers' Market:** https://abington-farmers-market.netlify.app/index.html
+
+
 Editorial by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
