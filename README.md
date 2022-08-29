@@ -3,7 +3,7 @@ This project showcases the Abington Farmers' Market of Northeastern Pennsylvania
 
 **Link to project:** https://abington-farmers-market.netlify.app/index.html
 
-![artistically stacked slices of eggplant](/images/tijana-drndarski-pic.jpg)
+![artistically stacked slices of eggplant](/images/smaller-eggplant.jpeg)
 
 ## How It's Made:
 
